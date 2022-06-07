@@ -6,9 +6,9 @@ public class lesson2GitTest {
         int i = 5668485;
         double ii = 5668485;
         System.out.print(i / 60);
-        System.out.println(" min");
+        System.out.println("  min");
         System.out.print(ii / 60);
-        System.out.println(" min");
+        System.out.println("  min");
 
     }
 }
